@@ -1,0 +1,15 @@
+C:\Users\finnw\OneDrive\Desktop\VSCode\bin\Debug\net7.0\VSCode.exe
+C:\Users\finnw\OneDrive\Desktop\VSCode\bin\Debug\net7.0\VSCode.deps.json
+C:\Users\finnw\OneDrive\Desktop\VSCode\bin\Debug\net7.0\VSCode.runtimeconfig.json
+C:\Users\finnw\OneDrive\Desktop\VSCode\bin\Debug\net7.0\VSCode.dll
+C:\Users\finnw\OneDrive\Desktop\VSCode\bin\Debug\net7.0\VSCode.pdb
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\VSCode.csproj.AssemblyReference.cache
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\VSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\VSCode.AssemblyInfoInputs.cache
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\VSCode.AssemblyInfo.cs
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\VSCode.csproj.CoreCompileInputs.cache
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\VSCode.dll
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\refint\VSCode.dll
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\VSCode.pdb
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\VSCode.genruntimeconfig.cache
+C:\Users\finnw\OneDrive\Desktop\VSCode\obj\Debug\net7.0\ref\VSCode.dll
